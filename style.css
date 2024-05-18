@@ -1,0 +1,69 @@
+.ID{
+    height: 70px;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 25px;
+}
+.ID1{
+    height: 70px;
+    width: 40%;
+    border: 2px solid black;
+    border-radius: 25px;
+   margin-top:1%;
+ 
+}
+
+.root{
+ margin-top: 3px;
+ margin-left: 50px;
+  height: 30%;
+  width: 50%;
+  border-radius: 15;
+}
+.telo{
+    height: 70px;
+    width: 40%;
+     border-radius: 15px; 
+     color: brown;
+ background-color: chocolate;
+   }
+   .bdy{
+    margin-left: 50px; 
+   }
+   .equal{
+    margin-left: 50px;
+   }
+.facbk{
+    height: 40px;
+    width: 60;
+    border-radius: 15;
+    margin-left: 10px;
+}
+.app{
+    height: 40px;
+    width: 60px;
+    border-radius: 15;
+    margin-left: 30px;
+}
+.ggle{
+    height: 40px;
+    width: 60;
+    border-radius: 15px;
+    margin-left: 30px;
+}
+body{
+    background-color: bisque;
+}
+
+body {
+    background-image: url('images.jpeg');
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    background-position: center;
+    background-size:60% 98%;
+    background-position: right;
+   
+  }
+  head{
+    margin-left: 50px;
+  }
